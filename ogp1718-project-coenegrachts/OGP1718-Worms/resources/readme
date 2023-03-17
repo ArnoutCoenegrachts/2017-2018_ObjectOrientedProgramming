@@ -1,4 +1,0 @@
-This folder is included as a source folder so that making a JAR file
-will include resources (images, levels, programs) in the JAR.
-
-The folders link to the folders in the root of the project.

@@ -1,4 +1,0 @@
-Blocks.lvl
-Simple.lvl
-Skulls-lowres.lvl
-Skulls.lvl
